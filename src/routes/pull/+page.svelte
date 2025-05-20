@@ -33,7 +33,7 @@
 </script>
 
 <main class="flex flex-col items-center justify-center p-6 gap-6">
-	<h1 class="text-2xl font-bold">六爻占 - Little LiuYao Pull</h1>
+	<h1 class="text-2xl font-bold">小六爻占 - Little LiuYao Pull</h1>
 
 	<input
 		type="text"
